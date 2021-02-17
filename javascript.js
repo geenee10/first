@@ -1,5 +1,3 @@
 /*js*/
 
-for(i = 0; i < 4; i = i + 1){
-	document.createElement('gnbicon');
-};
+let banner = [1, 2, 3, 4, 5]
